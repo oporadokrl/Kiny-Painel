@@ -1,4 +1,4 @@
-
+<p align="center" ><img alt="Kiny-Painel" src="https://github.com/oporadokrl/Kiny-Painel/blob/master/screenshot.png"></p>
 <h1 align="center">Kiny - Painel Yato's Fork</h1>
 <p align="center">
 
