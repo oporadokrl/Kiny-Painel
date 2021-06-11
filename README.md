@@ -36,7 +36,7 @@ Depois de baixar e instalar o python você pode baixar o **Kiny-Painel** diretam
 
 ```
 $ pkg upgrade && pkg update -y
-$ pkg install git python -y
+$ pkg install git python figlet -y
 $ git clone https://github.com/oporadokrl/Kiny-Painel
 $ cd Kiny-Painel
 $ python3 main.py
